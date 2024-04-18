@@ -3,7 +3,7 @@ name: full CI
 on:
   merge_group:
   pull_request:
-    types: [opened, synchronize, reopened]
+    types: [opened, synchronize,  reopened]
   push:
 
 jobs:
